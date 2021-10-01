@@ -1,0 +1,4 @@
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211001\projSoma\projSoma\bin\Debug\projSoma.exe
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211001\projSoma\projSoma\bin\Debug\projSoma.pdb
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211001\projSoma\projSoma\obj\x86\Debug\projSoma.exe
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211001\projSoma\projSoma\obj\x86\Debug\projSoma.pdb

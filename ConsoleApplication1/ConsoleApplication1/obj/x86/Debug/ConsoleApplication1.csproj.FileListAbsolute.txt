@@ -1,0 +1,4 @@
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211001\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211001\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211001\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211001\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
